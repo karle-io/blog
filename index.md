@@ -1,4 +1,4 @@
-<img width="75" alt="karle-logo" src="https://user-images.githubusercontent.com/15382541/131265776-5c2c08e0-19c4-4a36-96ea-5acb329f4bb6.png">
+<img width="128" alt="karle-logo" src="https://user-images.githubusercontent.com/15382541/131265969-c94852f9-cdf9-4ddc-91ac-eeeca9e71466.png">
 
 ## Welcome!
 
